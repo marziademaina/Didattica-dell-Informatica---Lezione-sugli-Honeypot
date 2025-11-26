@@ -48,7 +48,6 @@ licenza, visita https://creativecommons.org/licenses/by-sa/4.0/.
 ---
 
 ## Autore
-Marzia De Maina 
-Università di Bologna – LM-18  
+Marzia De Maina - Università di Bologna – LM-18
 Corso di Didattica dell’Informatica
 
